@@ -6,7 +6,7 @@ f = Figlet(font='slant')
 print(f.renderText('CC GEN'))
 print(Fore.MAGENTA + "> Generate random credit card details")
 print(Fore.WHITE + "> scripted by @garurprani")
-print(Fore.MAGENTA + "GitHub link: ")
+print(Fore.MAGENTA + "GitHub link: github.com/garurprani/CreditCardGEN")
 print()
 
 url= ("https://backend.lambdatest.com/api/dev-tools/credit-card-generator?")
