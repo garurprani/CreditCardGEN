@@ -36,6 +36,18 @@
     <pre><code>pip install requests colorama pyfiglet</code></pre>
     <p>To run the script:</p>
     <pre><code>python creditcard_api.py</code></pre>
+<h2>How It Works</h2>
+<p>The <strong>Credit Card API Script</strong> interacts with the LambdaTest API to dynamically generate credit card details based on user input. Here's a breakdown of its functioning:</p>
+
+<ol>
+    <li><strong>User Input:</strong> Users specify the type of credit card they want to generate (American Express, MasterCard, Visa, JCB) by entering the corresponding code.</li>
+    <li><strong>API Interaction:</strong> The script constructs a URL with the selected card type and makes a GET request to the LambdaTest Credit Card Generator API.</li>
+    <li><strong>Response Handling:</strong> Upon receiving a successful response (HTTP status code 200), the script parses the JSON data containing randomly generated credit card details.</li>
+    <li><strong>Data Display:</strong> It then formats and displays the retrieved card details including type, name, number, CVV, and expiry date in a colorized terminal output.</li>
+</ol>
+
+<p>This tool leverages Python libraries such as <code>requests</code> for API communication, <code>colorama</code> for terminal colors, and <code>pyfiglet</code> for ASCII art rendering.</p>
+
 
    <h2>Contributing</h2>
     <p>Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.</p>
@@ -43,8 +55,7 @@
    <h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
 
-  <h2>Author</h2>
-    <p>Scripted by <a href="https://github.com/garurprani" target="_blank">@garurprani</a></p>
+  <h2>Author @garurprani</h2>
 
   <h2>GitHub Repository</h2>
     <p>Find more details and the latest updates on <a href="https://github.com/your_username/your_repository" target="_blank">GitHub</a>.</p>
