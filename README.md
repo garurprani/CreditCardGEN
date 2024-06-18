@@ -5,26 +5,22 @@
     <p>This Python script, <strong>creditcard_api.py</strong>, utilizes the LambdaTest API to generate random credit card details. It allows users to specify the type of credit card they want to generate (American Express, MasterCard, Visa, JCB) and retrieves card details including type, name, number, CVV, and expiry date.</p>
 
    <h2>Screenshots</h2>
-    <table>
-        <tr>
-            <td>
-                <img src="screenshots/1.png" alt="Screenshot 1" width="100%">
-            </td>
-        </tr>
-       </table>
 
- <table>
+<table>
+    <tr>
+        <td>
+            <img src="screenshots/1.png" alt="Screenshot 1" width="100%">
+        </td>
+        <td>
+            <img src="screenshots/2.png" alt="Screenshot 2" width="100%">
+        </td>
       <tr>
             <td>
-                <img src="screenshots/2.png" alt="Screenshot 2" width="300">
+                <img src="screenshots/3.png" alt="Screenshot 2" width="100%">
             </td>
         </tr>
-           <tr>
-            <td>
-                <img src="screenshots/3.png" alt="Screenshot 2" width="300">
-            </td>
-        </tr>
-       </table>
+</table>
+
 
    <h2>Features</h2>
     <ul>
