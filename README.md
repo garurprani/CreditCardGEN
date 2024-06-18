@@ -55,7 +55,7 @@
    <h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
 
-  <h2>Author @garurprani</h2>
+
 
   <h2>GitHub Repository</h2>
     <p>Find more details and the latest updates on <a href="https://github.com/your_username/your_repository" target="_blank">GitHub</a>.</p>
