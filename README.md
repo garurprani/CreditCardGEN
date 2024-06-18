@@ -19,6 +19,11 @@
                 <img src="screenshots/2.png" alt="Screenshot 2" width="300">
             </td>
         </tr>
+           <tr>
+            <td>
+                <img src="screenshots/3.png" alt="Screenshot 2" width="300">
+            </td>
+        </tr>
        </table>
 
    <h2>Features</h2>
